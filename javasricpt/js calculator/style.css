@@ -1,0 +1,45 @@
+body {
+    background-color: blueviolet;
+    background-size: cover;
+    height: 100%;
+    text-align: center;
+}
+
+#num1 {
+    margin-top: 175px;
+}
+
+.btn {
+    margin: 55px;
+}
+
+.head {
+    font-size: 45px;
+    font-family: sans-serif;
+}
+
+h1 {
+    margin: 20px;
+    color: rgb(14, 13, 13);
+    font-size: 30px;
+}
+
+input {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 205px;
+    height: 40px;
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+    width: 65px;
+    height: 30px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    background-color: rgb(149, 119, 177);
+}
